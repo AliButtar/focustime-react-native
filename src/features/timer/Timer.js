@@ -10,7 +10,7 @@ import { RoundedButton } from '../../components/RoundedButton';
 
 import { Timing } from './Timing';
 
-const DEFAULT_TIME = 0.1;
+const DEFAULT_TIME = 15;
 
 export const Timer = ({ focusSubject, onTimerEnd, clearSubject }) => {
   useKeepAwake();
@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
   countdown: {
     flex: 0.5,
     alignItems: 'center',
-    justifyContent: 'cetner',
+    justifyContent: 'center',
   },
   buttonWrapper: {
     flex: 0.3,
