@@ -1,3 +1,3 @@
 # FocusTime React Native App
 
-Check the App out (here)[https://snack.expo.io/@alibuttar/focustime]
+Check the App out [here](https://snack.expo.io/@alibuttar/focustime)
